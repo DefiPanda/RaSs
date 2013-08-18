@@ -1,0 +1,26 @@
+#Tue Mar 27 16:49:36 EDT 2012
+GTF_File=../data/RNAseqSim/Mus_musculus.NCBIM37.65.gtf
+FASTA_File=../data/RNAseqSim/Mus_musculus.NCBIM37.65.dna.chromosome.1.fa
+Chromosome=1
+Chromosome_Matching=Exact
+Abundance_File=./abundance.txt
+Abundance_Overwritten=No
+Expressed_Transcript_Percentage=0.5
+SV_Allowed=No
+SV_File=../data/RNAseqSim/sv.chr1.vcf
+SV_Sample=129S1
+Read_ID_Prefix=UNC-
+Read_Length=100
+Fragment_Minimum_Length=150
+Fragment_Maximum_Length=400
+Coverage_Factor=2.0
+Quality_Generator=Perfect
+Flip_And_Reverse=Yes
+Real_Quality_Score_Fastq_1=./real.1.fq
+Real_Quality_Score_Fastq_2=./real.2.fq
+Unknown_Factor=0.0001
+Output_Fastq_1=./1.fq
+Output_Fastq_2=./2.fq
+Input_Buffer_Size=10485760
+Output_Buffer_Size=10485760
+Process_Window_Size=41943040

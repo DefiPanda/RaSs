@@ -1,5 +1,5 @@
-Publication
-http://bioinformatics.oxfordjournals.org/content/29/13/i291.full.pdf
+My Related Publication
+        http://bioinformatics.oxfordjournals.org/content/29/13/i291.full.pdf
 
 [Manual of RNAseqSim] 
 

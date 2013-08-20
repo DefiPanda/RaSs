@@ -1,3 +1,6 @@
+Publication
+http://bioinformatics.oxfordjournals.org/content/29/13/i291.full.pdf
+
 [Manual of RNAseqSim] 
 
 NAME

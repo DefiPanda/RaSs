@@ -136,7 +136,7 @@ OUTPUT
 	Two files, specified in "Output_Fastq_1" and "Output_Fastq_2", are the main
 	output that contain all reads.
 
-	If the abundance file does not exist, it will be created with the abudance
+	If the abundance file does not exist, it will be created with the abundance
 	value the program randomly chooses.
 	
 	An .INX file will also be built for fast accessing the "FASTA_File".
